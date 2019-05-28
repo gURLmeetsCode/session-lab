@@ -1,0 +1,23 @@
+{
+  "name": "session-lab",
+  "version": "1.0.0",
+  "description": "session lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gURLmeetsCode/session-lab.git"
+  },
+  "author": "Natasha Kelly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gURLmeetsCode/session-lab/issues"
+  },
+  "homepage": "https://github.com/gURLmeetsCode/session-lab#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.16.1"
+  }
+}
